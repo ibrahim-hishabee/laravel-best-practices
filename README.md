@@ -514,6 +514,3 @@ Minimize usage of vanilla PHP in Blade templates.
 
 [🔝 Back to contents](#contents)
 
-## Credits
-
-https://github.com/alexeymezenin/laravel-best-practices
